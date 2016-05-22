@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1462194290 source:/home/pok/conj/game.cpp
+	"game.h"
+
+1462194290 /home/pok/conj/game.h
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+
+1462264381 source:/home/pok/conj/readXML.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"tinyxml2.h"
+	"readXML.h"
+	"game.h"
+
+1462194290 /home/pok/conj/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<android/log.h>
+	<assert.h>
+
+1462264352 /home/pok/conj/readXML.h
+	<vector>
+	"game.h"
+
+1462194290 source:/home/pok/conj/textClass.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<vector>
+	"textClass.h"
+
+1462194290 /home/pok/conj/textClass.h
+	<SDL2/SDL.h>
+
+1462194290 source:/home/pok/conj/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1462264116 source:/home/pok/conj/conjurer+.cpp
+	<sstream>
+	<typeinfo>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<dirent.h>
+	<string>
+	<vector>
+	<map>
+	"tinyxml2.h"
+	"game.h"
+	"textClass.h"
+	"readXML.h"
+	"tools.h"
+
+1462194290 /home/pok/conj/tools.h
+	<iostream>
+	<stdio.h>
+
+1462195686 source:/home/pok/conj/tools.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	"tools.h"
+

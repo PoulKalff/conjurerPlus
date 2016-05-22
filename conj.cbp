@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="conj" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/conj" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/conj" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="conj.layout" />
+		<Unit filename="conjurer+" />
+		<Unit filename="conjurer+.cpp" />
+		<Unit filename="fonts/LiberationMono-Bold.ttf" />
+		<Unit filename="fonts/LiberationMono-Regular.ttf" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="gfx/amiga/another_world.png" />
+		<Unit filename="gfx/amiga/arkanoid.png" />
+		<Unit filename="gfx/amiga/arkanoid2.png" />
+		<Unit filename="gfx/amiga/banshee.png" />
+		<Unit filename="gfx/amiga/barbarian.png" />
+		<Unit filename="gfx/amiga/barbarian2.png" />
+		<Unit filename="gfx/amiga/batmantcc.png" />
+		<Unit filename="gfx/amiga/batmantm.png" />
+		<Unit filename="gfx/amiga/battle_squadron.png" />
+		<Unit filename="gfx/amiga/brian_the_lion.png" />
+		<Unit filename="gfx/amiga/california_games.png" />
+		<Unit filename="gfx/amiga/chips_challenge.png" />
+		<Unit filename="gfx/amiga/fire_and_ice.png" />
+		<Unit filename="gfx/amiga/gods.png" />
+		<Unit filename="gfx/amiga/jimpower.png" />
+		<Unit filename="gfx/amiga/lotus_esprit_turbo_challenge.png" />
+		<Unit filename="gfx/amiga/midnight_resistance.png" />
+		<Unit filename="gfx/amiga/moonstone.png" />
+		<Unit filename="gfx/amiga/myth.png" />
+		<Unit filename="gfx/amiga/nitro.png" />
+		<Unit filename="gfx/amiga/over_the_net.png" />
+		<Unit filename="gfx/amiga/overdrive.png" />
+		<Unit filename="gfx/amiga/paradroid90.png" />
+		<Unit filename="gfx/amiga/prince_of_persia.png" />
+		<Unit filename="gfx/amiga/project-x.png" />
+		<Unit filename="gfx/amiga/rambo3.png" />
+		<Unit filename="gfx/amiga/ruff_n_tumble.png" />
+		<Unit filename="gfx/amiga/skidmarks.png" />
+		<Unit filename="gfx/amiga/speedball2.png" />
+		<Unit filename="gfx/amiga/super_cars2.png" />
+		<Unit filename="gfx/amiga/superfrog.png" />
+		<Unit filename="gfx/amiga/swordofsodan.jpg" />
+		<Unit filename="gfx/amiga/thumbs.db" />
+		<Unit filename="gfx/amiga/turrican.png" />
+		<Unit filename="gfx/amiga/turrican2.png" />
+		<Unit filename="gfx/amiga/turrican3.png" />
+		<Unit filename="gfx/amiga/volfied.png" />
+		<Unit filename="gfx/amiga/wings_of_fury.png" />
+		<Unit filename="gfx/amiga/x-out.png" />
+		<Unit filename="gfx/amiga/xenon2.png" />
+		<Unit filename="gfx/amiga/z-out.png" />
+		<Unit filename="gfx/arcade/1942.png" />
+		<Unit filename="gfx/arcade/alteredbeast.png" />
+		<Unit filename="gfx/arcade/arkanoid.png" />
+		<Unit filename="gfx/arcade/arkanoid2.png" />
+		<Unit filename="gfx/arcade/atomicRobokid.png" />
+		<Unit filename="gfx/arcade/blacktiger.png" />
+		<Unit filename="gfx/arcade/blademaster.png" />
+		<Unit filename="gfx/arcade/bladesofsteel.png" />
+		<Unit filename="gfx/arcade/bomberman.png" />
+		<Unit filename="gfx/arcade/bombjack.png" />
+		<Unit filename="gfx/arcade/boulderdash90.png" />
+		<Unit filename="gfx/arcade/bubblebobble.png" />
+		<Unit filename="gfx/arcade/cabal.png" />
+		<Unit filename="gfx/arcade/combatschool.png" />
+		<Unit filename="gfx/arcade/commando.png" />
+		<Unit filename="gfx/arcade/crimefighters.png" />
+		<Unit filename="gfx/arcade/ddragon.jpg" />
+		<Unit filename="gfx/arcade/ddragon2.png" />
+		<Unit filename="gfx/arcade/ddragon3.png" />
+		<Unit filename="gfx/arcade/dkong.gif" />
+		<Unit filename="gfx/arcade/dragonninja.png" />
+		<Unit filename="gfx/arcade/ffight.png" />
+		<Unit filename="gfx/arcade/gauntlet.png" />
+		<Unit filename="gfx/arcade/gauntlet2.png" />
+		<Unit filename="gfx/arcade/ghostngoblins.png" />
+		<Unit filename="gfx/arcade/ghoulsnghosts.gif" />
+		<Unit filename="gfx/arcade/gloc.png" />
+		<Unit filename="gfx/arcade/goldenaxe.png" />
+		<Unit filename="gfx/arcade/hangtime.jpg" />
+		<Unit filename="gfx/arcade/karnov.png" />
+		<Unit filename="gfx/arcade/klax.png" />
+		<Unit filename="gfx/arcade/kungfumaster.png" />
+		<Unit filename="gfx/arcade/loderunner.png" />
+		<Unit filename="gfx/arcade/mikie.png" />
+		<Unit filename="gfx/arcade/mk3.png" />
+		<Unit filename="gfx/arcade/moonpatrol.png" />
+		<Unit filename="gfx/arcade/mrdo.png" />
+		<Unit filename="gfx/arcade/nibbler.png" />
+		<Unit filename="gfx/arcade/oprthunderbolt.png" />
+		<Unit filename="gfx/arcade/oprwolf.png" />
+		<Unit filename="gfx/arcade/outrun.png" />
+		<Unit filename="gfx/arcade/pacman.png" />
+		<Unit filename="gfx/arcade/pang.png" />
+		<Unit filename="gfx/arcade/paperboy.png" />
+		<Unit filename="gfx/arcade/pdrift.png" />
+		<Unit filename="gfx/arcade/plotting.png" />
+		<Unit filename="gfx/arcade/prehistisle.png" />
+		<Unit filename="gfx/arcade/puzznic.png" />
+		<Unit filename="gfx/arcade/rainbowislands.png" />
+		<Unit filename="gfx/arcade/rampage.png" />
+		<Unit filename="gfx/arcade/rtype.png" />
+		<Unit filename="gfx/arcade/rtype2.png" />
+		<Unit filename="gfx/arcade/salamander.png" />
+		<Unit filename="gfx/arcade/salamander2.gif" />
+		<Unit filename="gfx/arcade/shadowdancer.png" />
+		<Unit filename="gfx/arcade/shadowwarriors.png" />
+		<Unit filename="gfx/arcade/shinobi.png" />
+		<Unit filename="gfx/arcade/spaceinvaders.png" />
+		<Unit filename="gfx/arcade/splatterhouse.jpg" />
+		<Unit filename="gfx/arcade/ssidekicks.png" />
+		<Unit filename="gfx/arcade/stdragon.png" />
+		<Unit filename="gfx/arcade/streetfigther2.jpg" />
+		<Unit filename="gfx/arcade/tetris.png" />
+		<Unit filename="gfx/arcade/thumbs.db" />
+		<Unit filename="gfx/arcade/toki.png" />
+		<Unit filename="gfx/arcade/turbooutrun.jpg" />
+		<Unit filename="gfx/arcade/volfied.png" />
+		<Unit filename="gfx/arcade/wonderboy.png" />
+		<Unit filename="gfx/c64/aztec_challenge.png" />
+		<Unit filename="gfx/c64/beamrider.gif" />
+		<Unit filename="gfx/c64/blue_max.gif" />
+		<Unit filename="gfx/c64/brucelee.gif" />
+		<Unit filename="gfx/c64/buggyboy.gif" />
+		<Unit filename="gfx/c64/commando.gif" />
+		<Unit filename="gfx/c64/denaris.gif" />
+		<Unit filename="gfx/c64/giana.gif" />
+		<Unit filename="gfx/c64/gringos.png" />
+		<Unit filename="gfx/c64/ikplus.gif" />
+		<Unit filename="gfx/c64/krakout.gif" />
+		<Unit filename="gfx/c64/last_ninja.gif" />
+		<Unit filename="gfx/c64/last_ninja2.gif" />
+		<Unit filename="gfx/c64/leaderboard.gif" />
+		<Unit filename="gfx/c64/loderunner.gif" />
+		<Unit filename="gfx/c64/microprosesoccer.gif" />
+		<Unit filename="gfx/c64/montezumas.gif" />
+		<Unit filename="gfx/c64/myth.gif" />
+		<Unit filename="gfx/c64/north_and_south.gif" />
+		<Unit filename="gfx/c64/paperboy.gif" />
+		<Unit filename="gfx/c64/pitstop2.gif" />
+		<Unit filename="gfx/c64/slimeysmine.gif" />
+		<Unit filename="gfx/c64/targetrenegade.gif" />
+		<Unit filename="gfx/c64/thumbs.db" />
+		<Unit filename="makefile" />
+		<Unit filename="readXML.cpp" />
+		<Unit filename="readXML.h" />
+		<Unit filename="readXML.o" />
+		<Unit filename="textClass.cpp" />
+		<Unit filename="textClass.h" />
+		<Unit filename="tinyxml2.cpp" />
+		<Unit filename="tinyxml2.h" />
+		<Unit filename="tools.cpp" />
+		<Unit filename="tools.h" />
+		<Unit filename="xml/games.xml" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
